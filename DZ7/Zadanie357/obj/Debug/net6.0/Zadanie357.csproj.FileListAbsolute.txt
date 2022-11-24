@@ -1,0 +1,15 @@
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie357/bin/Debug/net6.0/Zadanie357
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie357/bin/Debug/net6.0/Zadanie357.deps.json
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie357/bin/Debug/net6.0/Zadanie357.runtimeconfig.json
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie357/bin/Debug/net6.0/Zadanie357.dll
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie357/bin/Debug/net6.0/Zadanie357.pdb
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie357/obj/Debug/net6.0/Zadanie357.csproj.AssemblyReference.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie357/obj/Debug/net6.0/Zadanie357.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie357/obj/Debug/net6.0/Zadanie357.AssemblyInfoInputs.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie357/obj/Debug/net6.0/Zadanie357.AssemblyInfo.cs
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie357/obj/Debug/net6.0/Zadanie357.csproj.CoreCompileInputs.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie357/obj/Debug/net6.0/Zadanie357.dll
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie357/obj/Debug/net6.0/refint/Zadanie357.dll
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie357/obj/Debug/net6.0/Zadanie357.pdb
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie357/obj/Debug/net6.0/Zadanie357.genruntimeconfig.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie357/obj/Debug/net6.0/ref/Zadanie357.dll

@@ -1,0 +1,15 @@
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/Zadacha36/bin/Debug/net6.0/Zadacha36
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/Zadacha36/bin/Debug/net6.0/Zadacha36.deps.json
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/Zadacha36/bin/Debug/net6.0/Zadacha36.runtimeconfig.json
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/Zadacha36/bin/Debug/net6.0/Zadacha36.dll
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/Zadacha36/bin/Debug/net6.0/Zadacha36.pdb
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/Zadacha36/obj/Debug/net6.0/Zadacha36.csproj.AssemblyReference.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/Zadacha36/obj/Debug/net6.0/Zadacha36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/Zadacha36/obj/Debug/net6.0/Zadacha36.AssemblyInfoInputs.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/Zadacha36/obj/Debug/net6.0/Zadacha36.AssemblyInfo.cs
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/Zadacha36/obj/Debug/net6.0/Zadacha36.csproj.CoreCompileInputs.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/Zadacha36/obj/Debug/net6.0/Zadacha36.dll
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/Zadacha36/obj/Debug/net6.0/refint/Zadacha36.dll
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/Zadacha36/obj/Debug/net6.0/Zadacha36.pdb
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/Zadacha36/obj/Debug/net6.0/Zadacha36.genruntimeconfig.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/Zadacha36/obj/Debug/net6.0/ref/Zadacha36.dll

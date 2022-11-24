@@ -1,0 +1,15 @@
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie363/obj/Debug/net6.0/Zadanie363.csproj.AssemblyReference.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie363/obj/Debug/net6.0/Zadanie363.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie363/obj/Debug/net6.0/Zadanie363.AssemblyInfoInputs.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie363/obj/Debug/net6.0/Zadanie363.AssemblyInfo.cs
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie363/obj/Debug/net6.0/Zadanie363.csproj.CoreCompileInputs.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie363/bin/Debug/net6.0/Zadanie363
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie363/bin/Debug/net6.0/Zadanie363.deps.json
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie363/bin/Debug/net6.0/Zadanie363.runtimeconfig.json
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie363/bin/Debug/net6.0/Zadanie363.dll
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie363/bin/Debug/net6.0/Zadanie363.pdb
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie363/obj/Debug/net6.0/Zadanie363.dll
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie363/obj/Debug/net6.0/refint/Zadanie363.dll
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie363/obj/Debug/net6.0/Zadanie363.pdb
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie363/obj/Debug/net6.0/Zadanie363.genruntimeconfig.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ7/Zadanie363/obj/Debug/net6.0/ref/Zadanie363.dll

@@ -1,0 +1,15 @@
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ9/Zadacha66/bin/Debug/net6.0/Zadacha66
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ9/Zadacha66/bin/Debug/net6.0/Zadacha66.deps.json
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ9/Zadacha66/bin/Debug/net6.0/Zadacha66.runtimeconfig.json
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ9/Zadacha66/bin/Debug/net6.0/Zadacha66.dll
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ9/Zadacha66/bin/Debug/net6.0/Zadacha66.pdb
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ9/Zadacha66/obj/Debug/net6.0/Zadacha66.csproj.AssemblyReference.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ9/Zadacha66/obj/Debug/net6.0/Zadacha66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ9/Zadacha66/obj/Debug/net6.0/Zadacha66.AssemblyInfoInputs.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ9/Zadacha66/obj/Debug/net6.0/Zadacha66.AssemblyInfo.cs
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ9/Zadacha66/obj/Debug/net6.0/Zadacha66.csproj.CoreCompileInputs.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ9/Zadacha66/obj/Debug/net6.0/Zadacha66.dll
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ9/Zadacha66/obj/Debug/net6.0/refint/Zadacha66.dll
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ9/Zadacha66/obj/Debug/net6.0/Zadacha66.pdb
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ9/Zadacha66/obj/Debug/net6.0/Zadacha66.genruntimeconfig.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ9/Zadacha66/obj/Debug/net6.0/ref/Zadacha66.dll

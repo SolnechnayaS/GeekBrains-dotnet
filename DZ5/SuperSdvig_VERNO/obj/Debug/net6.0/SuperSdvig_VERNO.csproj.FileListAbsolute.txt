@@ -1,0 +1,15 @@
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/SuperSdvig_VERNO/bin/Debug/net6.0/SuperSdvig_VERNO
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/SuperSdvig_VERNO/bin/Debug/net6.0/SuperSdvig_VERNO.deps.json
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/SuperSdvig_VERNO/bin/Debug/net6.0/SuperSdvig_VERNO.runtimeconfig.json
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/SuperSdvig_VERNO/bin/Debug/net6.0/SuperSdvig_VERNO.dll
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/SuperSdvig_VERNO/bin/Debug/net6.0/SuperSdvig_VERNO.pdb
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/SuperSdvig_VERNO/obj/Debug/net6.0/SuperSdvig_VERNO.csproj.AssemblyReference.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/SuperSdvig_VERNO/obj/Debug/net6.0/SuperSdvig_VERNO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/SuperSdvig_VERNO/obj/Debug/net6.0/SuperSdvig_VERNO.AssemblyInfoInputs.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/SuperSdvig_VERNO/obj/Debug/net6.0/SuperSdvig_VERNO.AssemblyInfo.cs
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/SuperSdvig_VERNO/obj/Debug/net6.0/SuperSdvig_VERNO.csproj.CoreCompileInputs.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/SuperSdvig_VERNO/obj/Debug/net6.0/SuperSdvig_VERNO.dll
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/SuperSdvig_VERNO/obj/Debug/net6.0/refint/SuperSdvig_VERNO.dll
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/SuperSdvig_VERNO/obj/Debug/net6.0/SuperSdvig_VERNO.pdb
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/SuperSdvig_VERNO/obj/Debug/net6.0/SuperSdvig_VERNO.genruntimeconfig.cache
+/Users/solnechnaya/Documents/GB_Разработчик/Programs/С#/DZ5/SuperSdvig_VERNO/obj/Debug/net6.0/ref/SuperSdvig_VERNO.dll
